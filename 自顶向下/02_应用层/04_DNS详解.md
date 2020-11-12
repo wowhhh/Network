@@ -4,7 +4,7 @@
   - 3：[关与DNS本地化的意义和实现](http://blog.chinaunix.net/uid-401789-id-2407919.html)
 - 思维脉络图
 
-![image-20200509195933963](img/image-20200509195933963.png)
+![](https://i.loli.net/2020/09/01/JAn8ra1w2jgz5sU.png)
 
 ### 说在前面
 
@@ -104,7 +104,7 @@
 
 三者为层次结构：
 
-![image-20200509195645617](img/image-20200509195645617.png)
+![](https://i.loli.net/2020/09/01/rPLMfvi6dCx19lE.png)
 
 除了上述之外，还有**本地DNS服务器**
 
@@ -122,7 +122,7 @@
 
   2：如果你的电脑和ISP之间还加了无线或者有线路由（一般的路由器本身还会内置DNS转发器），它的作用是将发往它所有的DNS请求转发到上层DNS，但最终会转发到ISP的DNS。
 
-  ![image-20200509191810166](img/image-20200509191810166.png)
+  ![](https://i.loli.net/2020/09/01/oa1rFQVARhB9KPm.png)
 
 #### DNS解析流程
 

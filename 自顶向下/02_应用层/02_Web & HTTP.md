@@ -67,7 +67,7 @@ Accept-language: fr
     表示用户想得到该对象的语言版本（如果有的话）
 - 请求报文的通用格式
 
-  ![](assets/markdown-img-paste-2020041415230941.png)
+  ![markdown-img-paste-2020041415230941](https://i.loli.net/2020/09/01/J4bdRPUfaLNFnzt.png)
 
   - 注意上面多出来的实体主体，对于GET方法实体主体为空，对于POST方法才使用该实体。
 
@@ -146,8 +146,8 @@ Content-Type: text/html
 ## 4:Cookie-用户与服务器的交互
 cookie允许站点对用户进行跟踪，因为HTTP服务器是无状态的，cookie能保证内容与用户身份联系起来。
 
-  ![](assets/markdown-img-paste-20200414154809121.png)
+![markdown-img-paste-20200414154809121](https://i.loli.net/2020/09/01/kRHzma5rxBuG8Ew.png)
 
-  
+
 ## 5：Web缓存
 ## 6：条件GET方法
