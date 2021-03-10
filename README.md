@@ -12,6 +12,14 @@
 
   ​	DHCP、ICMP、UDP、TCP、HTTP、HTTPS、DNS、RPC。。。。:sob::sob::sob:
 
+## 常见协议面试题汇总以及参考文章
+
+HTTP、HTTPS、DHCP、DNS、TCP、UDP、IP、ARP
+
+举个栗子：
+
+![Http](https://raw.githubusercontent.com/ARP2019/ImageUpload/master/img/2020-12-12/Http.png)
+
 ## **:one:** 计算机网络和因特网
 
 :star::star::star::star:
